@@ -5,11 +5,12 @@
 ! homepage: https://www.example.com/
 ! avatar: #ccbb11
 
+$boost=8,site=infogalactic.com
+
 $boost=4,site=zerohedge.com
 $boost=4,site=theepochtimes.com
 $boost=4,site=nypost.com
 $boost=4,site=naturalnews.com
-$boost=4,site=infogalactic.com
 $boost=4,site=globalresearch.ca
 $boost=4,site=expose-news.com
 $boost=4,site=disclose.tv
